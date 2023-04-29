@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/user/university/RPOdMP/Pong/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/user/.gradle/caches/transforms-2/files-2.1/33d62e18524c988561e3d6b60e927024/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

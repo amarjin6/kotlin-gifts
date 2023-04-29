@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/33d62e18524c988561e3d6b60e927024/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/user/.gradle/caches/transforms-2/files-2.1/021bb38e255a06899fc780ddf19093b0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/f6fac9a71414422be244fb8ff12dfa86/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/42aceac9ffd6414097952530e91dcddd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/c7b7152bc20dad32959867d40107873b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/d044ec1d95cf60fac1576434eef6d231/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/3d3ad4d798d3050e4f6c689873b61992/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/42e50ed11df6e1203f61ecc7fc358d98/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/0ef6a986bfbc2c942b2c7d5a22e0016f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/d25337aa1c125874b2f8aa3a2bb0bb0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/6159a6272dbfb2fd418fb0cb1d072aa9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/d241b16c422abb82453374299d1d373c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/6fb5efb4ea89c2c2efdef60667c8c8d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/5c7067e48a651f20ddbd9cc5374de6fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/ae95091dd085274d7dd1b99481be6ea7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/f9774d72f458978935019646c29e21df/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/4275ee8f6767c3ea0415fd23a02b6cc5/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/2a4e8a6ee3e2ee96932937ea0a21af3c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/user/.gradle/caches/transforms-2/files-2.1/0f8674cf9ef3c1dc8f97c8b88ef6bb65/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/b8fc36f0cae781209f85c105d8cc99ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/ce96f51bdef2eebaee447dc30de2dfbe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/f5cb5f88da37aca23664df5bf99a74c7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/user/.gradle/caches/transforms-2/files-2.1/5ecf627f41cd802d960c0703fe07951e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/user/.gradle/caches/transforms-2/files-2.1/003f5109d5a61fed8b950d6f6d76c7b0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/user/.gradle/caches/transforms-2/files-2.1/c31c5db8694bbb595cb4fdc5b3a60b48/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/user/.gradle/caches/transforms-2/files-2.1/8bf34b5a235cb93c9b785dfedac0ecbe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/511a752058e2aad493f6c982ba51c31f/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:5:5-26
+		INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:7:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/user/.gradle/caches/transforms-2/files-2.1/021bb38e255a06899fc780ddf19093b0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/user/.gradle/caches/transforms-2/files-2.1/021bb38e255a06899fc780ddf19093b0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/f9774d72f458978935019646c29e21df/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/f9774d72f458978935019646c29e21df/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/4275ee8f6767c3ea0415fd23a02b6cc5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/4275ee8f6767c3ea0415fd23a02b6cc5/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/f9774d72f458978935019646c29e21df/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:10:9-41
+	tools:ignore
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:14:9-48
+	android:roundIcon
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:9:9-36
+	android:allowBackup
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:13:9-69
+activity#am2023.pong.activity.MainActivity
+ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:16:9-25:20
+	android:screenOrientation
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:18:13-50
+	android:theme
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:19:13-40
+	android:name
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:17:13-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:23:27-74
+activity#am2023.pong.activity.SettingsActivity
+ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:26:9-29:52
+	android:screenOrientation
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:28:13-50
+	android:theme
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:29:13-40
+	android:name
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:27:13-65
+activity#am2023.pong.activity.GameActivity
+ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:30:9-34:52
+	android:screenOrientation
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:33:13-50
+	android:label
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:32:13-45
+	android:theme
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:34:13-40
+	android:name
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml:31:13-61
+uses-sdk
+INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml
+INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/33d62e18524c988561e3d6b60e927024/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/33d62e18524c988561e3d6b60e927024/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/user/.gradle/caches/transforms-2/files-2.1/021bb38e255a06899fc780ddf19093b0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/user/.gradle/caches/transforms-2/files-2.1/021bb38e255a06899fc780ddf19093b0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/f6fac9a71414422be244fb8ff12dfa86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/f6fac9a71414422be244fb8ff12dfa86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/42aceac9ffd6414097952530e91dcddd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/42aceac9ffd6414097952530e91dcddd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/c7b7152bc20dad32959867d40107873b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/c7b7152bc20dad32959867d40107873b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/d044ec1d95cf60fac1576434eef6d231/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/d044ec1d95cf60fac1576434eef6d231/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/3d3ad4d798d3050e4f6c689873b61992/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/3d3ad4d798d3050e4f6c689873b61992/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/42e50ed11df6e1203f61ecc7fc358d98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/42e50ed11df6e1203f61ecc7fc358d98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/0ef6a986bfbc2c942b2c7d5a22e0016f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/0ef6a986bfbc2c942b2c7d5a22e0016f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/d25337aa1c125874b2f8aa3a2bb0bb0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/d25337aa1c125874b2f8aa3a2bb0bb0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/6159a6272dbfb2fd418fb0cb1d072aa9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/6159a6272dbfb2fd418fb0cb1d072aa9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/d241b16c422abb82453374299d1d373c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/d241b16c422abb82453374299d1d373c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/6fb5efb4ea89c2c2efdef60667c8c8d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/6fb5efb4ea89c2c2efdef60667c8c8d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/5c7067e48a651f20ddbd9cc5374de6fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/5c7067e48a651f20ddbd9cc5374de6fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/ae95091dd085274d7dd1b99481be6ea7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/ae95091dd085274d7dd1b99481be6ea7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/f9774d72f458978935019646c29e21df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/f9774d72f458978935019646c29e21df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/4275ee8f6767c3ea0415fd23a02b6cc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/4275ee8f6767c3ea0415fd23a02b6cc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/2a4e8a6ee3e2ee96932937ea0a21af3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/2a4e8a6ee3e2ee96932937ea0a21af3c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/user/.gradle/caches/transforms-2/files-2.1/0f8674cf9ef3c1dc8f97c8b88ef6bb65/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/user/.gradle/caches/transforms-2/files-2.1/0f8674cf9ef3c1dc8f97c8b88ef6bb65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/b8fc36f0cae781209f85c105d8cc99ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/b8fc36f0cae781209f85c105d8cc99ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/ce96f51bdef2eebaee447dc30de2dfbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/ce96f51bdef2eebaee447dc30de2dfbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/f5cb5f88da37aca23664df5bf99a74c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/f5cb5f88da37aca23664df5bf99a74c7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/user/.gradle/caches/transforms-2/files-2.1/5ecf627f41cd802d960c0703fe07951e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/user/.gradle/caches/transforms-2/files-2.1/5ecf627f41cd802d960c0703fe07951e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/user/.gradle/caches/transforms-2/files-2.1/003f5109d5a61fed8b950d6f6d76c7b0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/user/.gradle/caches/transforms-2/files-2.1/003f5109d5a61fed8b950d6f6d76c7b0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/user/.gradle/caches/transforms-2/files-2.1/c31c5db8694bbb595cb4fdc5b3a60b48/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/user/.gradle/caches/transforms-2/files-2.1/c31c5db8694bbb595cb4fdc5b3a60b48/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/user/.gradle/caches/transforms-2/files-2.1/8bf34b5a235cb93c9b785dfedac0ecbe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/user/.gradle/caches/transforms-2/files-2.1/8bf34b5a235cb93c9b785dfedac0ecbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/511a752058e2aad493f6c982ba51c31f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/user/.gradle/caches/transforms-2/files-2.1/511a752058e2aad493f6c982ba51c31f/AndroidManifest.xml:20:5-44
+INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml
+INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/university/RPOdMP/Pong/app/src/main/AndroidManifest.xml
